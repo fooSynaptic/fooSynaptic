@@ -1,9 +1,68 @@
-- 👋 Hi, I’m @fooSynaptic
-- 👀 I’m interested in ML, GameAI, C++
-- 🌱 I’m currently work with Tech Leading firm in CN  ...
-- 📫 How to reach XXX at qq dot com ...
+# Hi there, I'm fooSynaptic 👋
 
-<!---
-fooSynaptic/fooSynaptic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9AFE&center=true&vCenter=true&width=435&lines=ML+Engineer;Game+AI+Enthusiast;C%2B%2B+Developer;Lifelong+Learner" alt="Typing SVG" />
+</p>
+
+## 🚀 About Me
+
+- 👨‍💻 Software Engineer working at a leading tech firm in China
+- 🤖 Passionate about Machine Learning and Game AI
+- 💻 Experienced in C++, Python, and Java
+- 🎮 Interested in LLM-powered agents and multi-agent systems
+- 📝 I write about AI/ML at [fooSynaptic.github.io](https://foosynaptic.github.io)
+
+## 🛠️ Tech Stack
+
+**Languages:**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**ML/AI:**
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![NLP](https://img.shields.io/badge/-NLP-4285F4?style=flat-square)
+
+**Other:**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fooSynaptic&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+## 📝 Recent Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [LLM 游戏智能体论文解读：应用扩展篇](https://foosynaptic.github.io/2025/12/28/LLM-Game-Agents-%E5%BA%94%E7%94%A8%E6%89%A9%E5%B1%95%E7%AF%87/)
+- [VOYAGER: 开放世界具身终身学习智能体](https://foosynaptic.github.io/2025/12/28/LLM-Game-Agents-%E5%9F%BA%E7%A1%80%E6%A1%86%E6%9E%B6%E7%AF%87/)
+- [DDIA 读书笔记：数据系统基础](https://foosynaptic.github.io/2025/12/28/DDIA-Part1-%E6%95%B0%E6%8D%AE%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80/)
+<!-- BLOG-POST-LIST:END -->
+
+## 🌱 Current Focus
+
+- 🔬 Researching Large Language Models (LLMs) and their applications
+- 🎮 Exploring Game AI and multi-agent systems
+- 📚 Reading "Designing Data-Intensive Applications"
+- 🌐 Building intelligent agents for real-world applications
+
+## 📫 How to Reach Me
+
+- 📧 Email: 2313990450@qq.com
+- 🌐 Blog: [https://foosynaptic.github.io](https://foosynaptic.github.io)
+- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+
+## 💡 Quote
+
+> "Truth through synaptic thinking. 以突触般的智能连接，探索真理。"
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fooSynaptic&color=blueviolet&style=flat-square" alt="Profile views" />
+</p>
