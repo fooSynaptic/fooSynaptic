@@ -4,15 +4,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9AFE&center=true&vCenter=true&width=435&lines=ML+Engineer;Game+AI+Enthusiast;C%2B%2B+Developer;Lifelong+Learner" alt="Typing SVG" />
 </p>
 
-## 🚀 About Me
+## <img src=".github/icons/rocket.svg" width="16" height="16" alt="rocket"> About Me
 
-- 👨‍💻 Software Engineer working at a leading tech firm in China
+- 👨‍<img src=".github/icons/computer.svg" width="16" height="16" alt="computer"> Software Engineer working at a leading tech firm in China
 - 🤖 Passionate about Machine Learning and Game AI
 - 💻 Experienced in C++, Python, and Java
-- 🎮 Interested in LLM-powered agents and multi-agent systems
-- 📝 I write about AI/ML at [fooSynaptic.github.io](https://foosynaptic.github.io)
+- <img src=".github/icons/game.svg" width="16" height="16" alt="game"> Interested in LLM-powered agents and multi-agent systems
+- <img src=".github/icons/note.svg" width="16" height="16" alt="note"> I write about AI/ML at [fooSynaptic.github.io](https://foosynaptic.github.io)
 
-## 🛠️ Tech Stack
+## <img src=".github/icons/tools.svg" width="16" height="16" alt="tools"> Tech Stack
 
 **Languages:**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -30,7 +30,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## 📊 GitHub Stats
+## <img src=".github/icons/chart.svg" width="16" height="16" alt="chart"> GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fooSynaptic&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -46,9 +46,9 @@
 
 ## 🌱 Current Focus
 
-- 🔬 Researching Large Language Models (LLMs) and their applications
+- <img src=".github/icons/microscope.svg" width="16" height="16" alt="microscope"> Researching Large Language Models (LLMs) and their applications
 - 🎮 Exploring Game AI and multi-agent systems
-- 📚 Reading "Designing Data-Intensive Applications"
+- <img src=".github/icons/book.svg" width="16" height="16" alt="book"> Reading "Designing Data-Intensive Applications"
 - 🌐 Building intelligent agents for real-world applications
 
 ## 📫 How to Reach Me
@@ -57,7 +57,7 @@
 - 🌐 Blog: [https://foosynaptic.github.io](https://foosynaptic.github.io)
 - 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
 
-## 💡 Quote
+## <img src=".github/icons/bulb.svg" width="16" height="16" alt="bulb"> Quote
 
 > "Truth through synaptic thinking. 以突触般的智能连接，探索真理。"
 
