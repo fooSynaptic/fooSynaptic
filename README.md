@@ -55,8 +55,6 @@
 
 - 📧 Email: 19420328+fooSynaptic@users.noreply.github.com
 - 🌐 Blog: [https://foosynaptic.github.io](https://foosynaptic.github.io)
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-
 ## <img src=".github/icons/bulb.svg" width="16" height="16" alt="bulb"> Quote
 
 > "Truth through synaptic thinking. 以突触般的智能连接，探索真理。"
