@@ -33,7 +33,18 @@
 ## <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#0366d6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="20" x2="18" y2="10"/><line x1="12" y1="20" x2="12" y2="4"/><line x1="6" y1="20" x2="6" y2="14"/></svg> GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fooSynaptic&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://komarev.com/ghpvc/?username=fooSynaptic&color=blueviolet&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/fooSynaptic?style=flat-square&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/fooSynaptic?style=flat-square&logo=github" alt="Stars" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fooSynaptic&theme=radical" alt="GitHub Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fooSynaptic&theme=radical" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fooSynaptic&theme=radical" alt="Top Languages by Commits" />
 </p>
 
 ## 📝 Recent Blog Posts
