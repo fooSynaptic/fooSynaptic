@@ -9,7 +9,6 @@
 - <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#0366d6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="8" rx="2" ry="2"/><rect x="2" y="14" width="20" height="8" rx="2" ry="2"/><line x1="6" y1="6" x2="6.01" y2="6"/><line x1="6" y1="18" x2="6.01" y2="18"/></svg> Passionate about Machine Learning and Game AI
 - <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#0366d6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg> Experienced in C++, Python, and Java
 - <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#0366d6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="6" y1="11" x2="10" y2="11"/><line x1="8" y1="9" x2="8" y2="13"/><rect x="2" y="6" width="20" height="12" rx="2"/></svg> Interested in LLM-powered agents and multi-agent systems
-- <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#0366d6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/><polyline points="10 9 9 9 8 9"/></svg> I write about AI/ML at [fooSynaptic.github.io](https://foosynaptic.github.io)
 
 ## <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#0366d6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/></svg> Tech Stack
 
@@ -46,14 +45,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fooSynaptic&theme=radical" alt="Top Languages by Commits" />
 </p>
 
-## 📝 Recent Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [LLM 游戏智能体论文解读：应用扩展篇](https://foosynaptic.github.io/2025/12/28/LLM-Game-Agents-%E5%BA%94%E7%94%A8%E6%89%A9%E5%B1%95%E7%AF%87/)
-- [VOYAGER: 开放世界具身终身学习智能体](https://foosynaptic.github.io/2025/12/28/LLM-Game-Agents-%E5%9F%BA%E7%A1%80%E6%A1%86%E6%9E%B6%E7%AF%87/)
-- [DDIA 读书笔记：数据系统基础](https://foosynaptic.github.io/2025/12/28/DDIA-Part1-%E6%95%B0%E6%8D%AE%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80/)
-<!-- BLOG-POST-LIST:END -->
-
 ## 🌱 Current Focus
 
 - <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#0366d6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2"/></svg> Researching Large Language Models (LLMs) and their applications
@@ -64,7 +55,7 @@
 ## 📫 How to Reach Me
 
 - 📧 Email: 2313990450@qq.com
-- 🌐 Blog: [https://foosynaptic.github.io](https://foosynaptic.github.io)
+
 ## <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#0366d6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"/></svg> Quote
 
 > "Truth through synaptic thinking. 以突触般的智能连接，探索真理。"
