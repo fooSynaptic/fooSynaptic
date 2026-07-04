@@ -8,7 +8,7 @@
 
 - Software Engineer at a leading tech company in China, focused on **Machine Learning** and **Game AI**
 - Building LLM-powered agents and multi-agent systems; researching frontier model mechanisms and inference infra
-- Writing technical notes (in 简体中文) at [fooSynaptic.github.io](https://foosynaptic.github.io)
+- Writing technical notes at [fooSynaptic.github.io](https://foosynaptic.github.io)
 - Languages: **C++ · Python · Java · JavaScript**
 
 ## <img src=".github/icons/chart.svg" width="16" height="16" alt="chart"> Featured Repositories
@@ -22,7 +22,7 @@
 | 6 | **[NLP-utils](https://github.com/fooSynaptic/NLP-utils)** | Reusable NLP utilities for preprocessing, feature extraction and text analysis |
 | 3 | **[infersent_entailment](https://github.com/fooSynaptic/infersent_entailment)** | Chinese sentence entailment with InferSent-style encoders (PyTorch) |
 | 2 | **[text-Paraphrasing](https://github.com/fooSynaptic/text-Paraphrasing)** | Unsupervised text restructuring via matrix decomposition (NMF / LDA) |
-| — | **[deepseek-tech-notes](https://github.com/fooSynaptic/deepseek-tech-notes)** | Unofficial DeepSeek tech notes (V1→V4): bidirectional wiki + mdBook. [在线阅读](https://fooSynaptic.github.io/deepseek-tech-notes/) |
+| — | **[deepseek-tech-notes](https://github.com/fooSynaptic/deepseek-tech-notes)** | Unofficial DeepSeek tech notes (V1→V4): bidirectional wiki + mdBook. [Read online](https://fooSynaptic.github.io/deepseek-tech-notes/) |
 
 ## <img src=".github/icons/tools.svg" width="16" height="16" alt="tools"> Tech Stack
 
@@ -42,9 +42,9 @@
 - Game AI and LLM-driven multi-agent systems
 - Reading *Designing Data-Intensive Applications*
 
-## <img src=".github/icons/bulb.svg" width="16" height="16" alt="bulb"> Quote
+## <img src=".github/icons/bulb.svg" width="16" height="16" alt="bulb"> Motto
 
-> "Truth through synaptic thinking. 以突触般的智能连接，探索真理。"
+**fooSynaptic** — *foo* from the programmer's `foo` / `bar`: machine learning is, at heart, **learning to solve for the unknown**; *Synaptic* for intelligence wired like synapses.
 
 ## 📫 Contact
 
