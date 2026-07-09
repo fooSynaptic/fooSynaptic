@@ -33,7 +33,7 @@
 ## <img src=".github/icons/chart.svg" width="16" height="16" alt="chart"> GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fooSynaptic&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
 </p>
 
 ## <img src=".github/icons/microscope.svg" width="16" height="16" alt="microscope"> Current Focus
