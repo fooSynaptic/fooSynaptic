@@ -13,16 +13,9 @@
 
 ## <img src=".github/icons/chart.svg" width="16" height="16" alt="chart"> Featured Repositories
 
-| ★ | Repo | What it is |
-|---|------|------------|
-| 19 | **[py_pcalg](https://github.com/fooSynaptic/py_pcalg)** | Pure-Python PC algorithm for causal discovery from observational data |
-| 11 | **[transfromerForTasks](https://github.com/fooSynaptic/transfromerForTasks)** | Transformer building blocks for NLP: NMT, segmentation, classification, NLI, reading comprehension |
-| 7 | **[quanta-learn](https://github.com/fooSynaptic/quanta-learn)** | 🚧 **In progress** — Four-list indexing framework (tool → solved → reading → problem) for self-directed learning |
-| 7 | **[BERTClassfier](https://github.com/fooSynaptic/BERTClassfier)** | BERT-based Chinese text classifier with fine-tuning, training and inference |
-| 6 | **[NLP-utils](https://github.com/fooSynaptic/NLP-utils)** | Reusable NLP utilities for preprocessing, feature extraction and text analysis |
-| 3 | **[infersent_entailment](https://github.com/fooSynaptic/infersent_entailment)** | Chinese sentence entailment with InferSent-style encoders (PyTorch) |
-| 2 | **[text-Paraphrasing](https://github.com/fooSynaptic/text-Paraphrasing)** | Unsupervised text restructuring via matrix decomposition (NMF / LDA) |
-| — | **[deepseek-tech-notes](https://github.com/fooSynaptic/deepseek-tech-notes)** | Unofficial DeepSeek tech notes (V1→V4): bidirectional wiki + mdBook. [Read online](https://fooSynaptic.github.io/deepseek-tech-notes/) |
+| Repo | What it is |
+|------|------------|
+| **[deepseek-tech-notes](https://github.com/fooSynaptic/deepseek-tech-notes)** | Unofficial DeepSeek tech notes (V1→V4): bidirectional wiki + mdBook. [Read online](https://fooSynaptic.github.io/deepseek-tech-notes/) |
 
 ## <img src=".github/icons/tools.svg" width="16" height="16" alt="tools"> Tech Stack
 
