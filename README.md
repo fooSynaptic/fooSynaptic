@@ -13,7 +13,6 @@
 
 ## <img src=".github/icons/rocket.svg" width="16" height="16" alt="rocket"> Original Tools
 
-
 | Tool | What it does | Try it |
 |------|--------------|--------|
 | **[py_pcalg](https://github.com/fooSynaptic/py_pcalg)** | PC algorithm for causal skeleton discovery — `pip install` + `pcalg` CLI + pytest | `pcalg demo` |
