@@ -20,21 +20,6 @@
 
 ---
 
-## <img src=".github/icons/tools.svg" width="16" height="16" alt="tools"> OSS Engineering Contributions
-
-Bugfix / benchmark / test PRs to upstream projects (not doc-only drive-bys).
-
-| Upstream | Type | Topic |
-|----------|------|-------|
-| [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | crash-guard fix | `get_leaf_nodes` empty-mapping KeyError |
-| [kyutai-labs/pocket-tts](https://github.com/kyutai-labs/pocket-tts) | benchmark + tests | inference throughput |
-| [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | shell parsing fix | unclosed `$(` hang bypass |
-| [alibaba/EasyRec](https://github.com/alibaba/EasyRec) / [TorchEasyRec](https://github.com/TorchEasyRec/TorchEasyRec) | training monitor | ZCH size fail-fast |
-
-Planning & tracking: [pr-plan-daily](https://github.com/fooSynaptic/pr-plan-daily)
-
----
-
 ## <img src=".github/icons/book.svg" width="16" height="16" alt="book"> Learning Archive
 
 Early repos from grad-school / self-study — **educational, not maintained as products**. Kept public for reference; active work lives in the tools above.
