@@ -20,25 +20,6 @@
 
 ---
 
-## <img src=".github/icons/book.svg" width="16" height="16" alt="book"> Learning Archive
-
-Early repos from grad-school / self-study — **educational, not maintained as products**. Kept public for reference; active work lives in the tools above.
-
-| Repo | Notes |
-|------|-------|
-| [NLP-utils](https://github.com/fooSynaptic/NLP-utils) | ML/NLP algorithms from scratch + benchmarks |
-| [transfromerForTasks](https://github.com/fooSynaptic/transfromerForTasks) | Transformer blocks for MT / NLI / MRC |
-| [quanta-learn](https://github.com/fooSynaptic/quanta-learn) | Learning backlog / algorithm exercises |
-| [BERTClassfier](https://github.com/fooSynaptic/BERTClassfier) | Chinese text classification with BERT |
-| [MRC-craft](https://github.com/fooSynaptic/MRC-craft) | MRC components from scratch (TF1) |
-| [embfree-rag](https://github.com/fooSynaptic/embfree-rag) | Emb-free RAG via TF-IDF / NMF |
-| [infersent_entailment](https://github.com/fooSynaptic/infersent_entailment) | Chinese NLI with InferSent |
-| [infersent_nois_norm](https://github.com/fooSynaptic/infersent_nois_norm) | Corpus normalization for low-data NLP |
-| [sent_classifer](https://github.com/fooSynaptic/sent_classifer) | Char-level RNN text experiments (MXNet) |
-| [func-ig-celici](https://github.com/fooSynaptic/func-ig-celici) | Functional causal discovery prototype |
-
----
-
 ## <img src=".github/icons/microscope.svg" width="16" height="16" alt="microscope"> About Me
 
 - Software Engineer at a leading tech company in China — **Machine Learning** & **Game AI**
