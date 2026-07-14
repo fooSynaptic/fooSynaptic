@@ -22,7 +22,7 @@
 
 ## <img src=".github/icons/microscope.svg" width="16" height="16" alt="microscope"> About Me
 
-- Software Engineer at a leading tech company in China — **Machine Learning** & **Game AI**
+- Data Scientist at a leading tech company in China — **Machine Learning** & **Game AI**
 - Building LLM-powered agents and multi-agent systems; researching frontier model mechanisms (MLA, MoE, DSA, DSpark)
 - Languages: **C++ · Python · Java · JavaScript**
 
