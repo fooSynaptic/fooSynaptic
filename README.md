@@ -13,7 +13,6 @@
 
 ## <img src=".github/icons/rocket.svg" width="16" height="16" alt="rocket"> Original Tools
 
-Repos I maintain as **real utilities**, not course exercises.
 
 | Tool | What it does | Try it |
 |------|--------------|--------|
