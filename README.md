@@ -17,6 +17,7 @@
 |------|--------------|--------|
 | **[py_pcalg](https://github.com/fooSynaptic/py_pcalg)** | PC algorithm for causal skeleton discovery — `pip install` + `pcalg` CLI + pytest | `pcalg demo` |
 | **[deepseek-mechanism-atlas](https://github.com/fooSynaptic/deepseek-mechanism-atlas)** | DeepSeek Mechanism Atlas — wiki + SVG + mdBook | [Read online](https://fooSynaptic.github.io/deepseek-mechanism-atlas/) |
+| **[upstream-fix-gate](https://github.com/fooSynaptic/upstream-fix-gate)** | GO/STOP before OSS contrib — detect already-shipped upstream fixes | `ufg --url …/issues/N` |
 
 ---
 
