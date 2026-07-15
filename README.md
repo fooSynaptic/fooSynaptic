@@ -16,7 +16,7 @@
 | Tool | What it does | Try it |
 |------|--------------|--------|
 | **[py_pcalg](https://github.com/fooSynaptic/py_pcalg)** | PC algorithm for causal skeleton discovery — `pip install` + `pcalg` CLI + pytest | `pcalg demo` |
-| **[deepseek-tech-notes](https://github.com/fooSynaptic/deepseek-tech-notes)** | Unofficial DeepSeek V1→V4 tech notes: bidirectional wiki + mdBook | [Read online](https://fooSynaptic.github.io/deepseek-tech-notes/) |
+| **[deepseek-mechanism-atlas](https://github.com/fooSynaptic/deepseek-mechanism-atlas)** | DeepSeek Mechanism Atlas — wiki + SVG + mdBook | [Read online](https://fooSynaptic.github.io/deepseek-mechanism-atlas/) |
 
 ---
 
