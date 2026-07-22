@@ -4,8 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9AFE&center=true&vCenter=true&width=435&lines=ML+Engineer;Game+AI+Researcher;Causal+Inference+%26+LLM+Infra;Building+Tools%2C+Not+Toy+Repos" alt="Typing SVG" />
 </p>
 
-> **ML Engineer** focused on causal inference, LLM agents, and inference infrastructure.  
-> I ship **usable tools** and **engineering PRs** — not README whitespace.
+> **ML Engineer** focused on LLM post training, and inference infrastructure.  
 
 📖 Blog: [foosynaptic.github.io](https://foosynaptic.github.io)
 
@@ -22,14 +21,9 @@
 
 ## <img src=".github/icons/microscope.svg" width="16" height="16" alt="microscope"> About Me
 
-- Data Scientist at a leading tech company in China — **Machine Learning** & **Game AI**
+- **Machine Learning** & **Game AI**
 - Building LLM-powered agents and multi-agent systems; researching frontier model mechanisms (MLA, MoE, DSA, DSpark)
 - Languages: **C++ · Python · Java · JavaScript**
-
-## Tech Stack
-
-**ML / AI:** PyTorch · NLP · LLM Agents · Causal Inference · PC Algorithm  
-**Infra:** Git · Linux · Docker · mdBook · GitHub Pages
 
 ---
 
