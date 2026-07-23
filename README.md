@@ -6,7 +6,6 @@
 
 > **ML Engineer** focused on LLM post training, and inference infrastructure.  
 
-📖 Blog: [foosynaptic.github.io](https://foosynaptic.github.io)
 
 ---
 
