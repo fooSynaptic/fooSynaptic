@@ -9,13 +9,6 @@
 
 ---
 
-## <img src=".github/icons/rocket.svg" width="16" height="16" alt="rocket"> Original Tools
-
-| Tool | What it does | Try it |
-|------|--------------|--------|
-| **[deepseek-mechanism-atlas](https://github.com/fooSynaptic/deepseek-mechanism-atlas)** | DeepSeek Mechanism Atlas — wiki + SVG + mdBook | [Read online](https://fooSynaptic.github.io/deepseek-mechanism-atlas/) |
-| **[upstream-fix-gate](https://github.com/fooSynaptic/upstream-fix-gate)** | GO/STOP before OSS contrib — detect already-shipped upstream fixes | `ufg --url …/issues/N` |
-
 ---
 
 ## <img src=".github/icons/microscope.svg" width="16" height="16" alt="microscope"> About Me
