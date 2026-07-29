@@ -8,6 +8,7 @@
 
 
 ---
+Coding implementations are built upon numerous implicit strong assumptions. This explains why iterative simulation and code tuning can never replace rigorous theoretical reasoning. Writing clean code is rewarding, yet never overlook the fundamental connections beneath algorithmic updates.
 
 ---
 
