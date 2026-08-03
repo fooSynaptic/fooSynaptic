@@ -1,41 +1,48 @@
-# Hi, I'm fooSynaptic 👋
+# Hi, I'm fooSynaptic
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9AFE&center=true&vCenter=true&width=435&lines=ML+Engineer;Game+AI+Researcher;Causal+Inference+%26+LLM+Infra;Building+Tools%2C+Not+Toy+Repos" alt="Typing SVG" />
-</p>
+**ML engineer** working on **LLM post-training** and **inference / serving infrastructure** — PEFT adapters, rollout-style training loops, and the glue that makes research code shippable.
 
-> **ML Engineer** focused on LLM post training, and inference infrastructure.  
-
-
----
-Coding implementations are built upon numerous implicit strong assumptions. This explains why iterative simulation and code tuning can never replace rigorous theoretical reasoning. Writing clean code is rewarding, yet never overlook the fundamental connections beneath algorithmic updates.
+I care about the assumptions under the code: simulation and tuning help, but they don't replace understanding the update rule.
 
 ---
 
-## <img src=".github/icons/microscope.svg" width="16" height="16" alt="microscope"> About Me
+## Focus
 
-- **Machine Learning** & **Game AI**
-- Building LLM-powered agents and multi-agent systems; researching frontier model mechanisms (MLA, MoE, DSA, DSpark)
-- Languages: **C++ · Python · Java · JavaScript**
+- Post-training & optimization loops (GRPO / SAO-style asynchronous rollouts)
+- Inference tooling when serving stacks lag PEFT / LoRA realities
+- Frontier model mechanisms (MLA, MoE, DSA, DSpark) as readable maps, not vibes
+- Practical OSS contribution hygiene (know when a fix is already upstream)
+
+Languages I reach for most: **Python · C++ · Shell**
 
 ---
 
-## <img src=".github/icons/chart.svg" width="16" height="16" alt="chart"> GitHub Stats
+## Selected work
+
+| Repo | What it is |
+|------|------------|
+| [**peft-adapter-merger**](https://github.com/fooSynaptic/peft-adapter-merger) | Offline PEFT adapter → dense merge, for reliable inference when serving frameworks trail latest LoRA / PEFT |
+| [**Single-rollout-async-Optimization**](https://github.com/fooSynaptic/Single-rollout-async-Optimization) | Unofficial re-implementation of SAO (Single-rollout Asynchronous Optimization) |
+| [**deepseek-mechanism-atlas**](https://github.com/fooSynaptic/deepseek-mechanism-atlas) | Bidirectional wiki + mdBook of DeepSeek V1→V4 mechanisms (MLA / MoE / DSA / DSpark). [Docs site](https://foosynaptic.github.io/deepseek-mechanism-atlas/) |
+| [**upstream-fix-gate**](https://github.com/fooSynaptic/upstream-fix-gate) | GO/STOP gate before opening OSS PRs — detect fixes already shipped upstream via `gh` |
+| [**py_pcalg**](https://github.com/fooSynaptic/py_pcalg) | Lightweight PC algorithm for causal skeleton discovery — pip + CLI + graph viz |
+
+Older course / trial repos stay in the account for history; they are not what I am building toward now.
+
+---
+
+## GitHub Stats
 
 <p align="center">
   <img src="./profile/stats.svg" alt="GitHub Stats" />
 </p>
 
-## <img src=".github/icons/bulb.svg" width="16" height="16" alt="bulb"> Motto
-
-**fooSynaptic** — *foo* from the programmer's `foo` / `bar`: machine learning is, at heart, **learning to solve for the unknown**; *Synaptic* for intelligence wired like synapses.
-
-## 📫 Contact
-
-- Blog: [https://foosynaptic.github.io](https://foosynaptic.github.io)
-
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fooSynaptic&color=blueviolet&style=flat-square" alt="Profile views" />
-</p>
+## Motto
+
+**fooSynaptic** — *foo* as in `foo` / `bar`: learning means solving for the unknown; *Synaptic* for intelligence wired like synapses.
+
+## Contact
+
+- Blog: [foosynaptic.github.io](https://foosynaptic.github.io)
